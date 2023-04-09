@@ -36,3 +36,9 @@ CPU：13900K
 
 ![截屏2023-04-09 14.06.28](./readme.assets/截屏2023-04-09 14.06.28.png)
 
+## 工具链接
+
+[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+
+[OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
+
